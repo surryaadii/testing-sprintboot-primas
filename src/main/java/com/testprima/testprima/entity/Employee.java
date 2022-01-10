@@ -39,10 +39,10 @@ public class Employee {
         return tanggalLahir;
     }
     public String getalamat() {
-        return namaKaryawan;
+        return alamat;
     }
     public String getemail() {
-        return namaKaryawan;
+        return email;
     }
     public void setkeluarga(List<Family> keluarga) {
         this.keluarga = keluarga;
